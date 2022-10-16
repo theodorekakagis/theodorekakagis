@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @theodorekakagis
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c/c++
+- 💞️ I’m looking to collaborate on anything
